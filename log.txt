@@ -1,0 +1,36 @@
+commit e9b4d044b6f53cae7ed3b803153f0fc9c8a9e165 (HEAD -> main, origin/main)
+Merge: 44d4243 88c5e0a
+Author: Равкин Никита <nikitaantonovic57633@gmail.com>
+Date:   Thu Oct 8 08:01:39 2026 +0300
+
+    Merge branch 'feature-b'
+
+commit 44d424304bc8c97970885fbda5724c34091df901
+Author: Равкин Никита <nikitaantonovic57633@gmail.com>
+Date:   Thu Oct 8 07:59:57 2026 +0300
+
+    Hello World
+
+commit 88c5e0afa02ebc4e2654f5e2edd3283c6535648a
+Author: Равкин Никита <nikitaantonovic57633@gmail.com>
+Date:   Thu Oct 8 07:36:35 2026 +0300
+
+    3) строка 1 -> коммит feature-b: добавить содержание 3-ей строки;
+
+commit 73b1f424bd0ea4b58b5c7952316ea3838a9f086e
+Author: Равкин Никита <nikitaantonovic57633@gmail.com>
+Date:   Thu Oct 8 07:31:39 2026 +0300
+
+    2) строка 2 -> коммит feature-a: добавить содержание 4-ой строки;
+
+commit 71750df14b590878b32421986ab65451ffb26f9a
+Author: Равкин Никита <nikitaantonovic57633@gmail.com>
+Date:   Thu Oct 8 07:30:54 2026 +0300
+
+    1) строка 1 -> коммит feature-a: добавить содержание 3-ей строки;
+
+commit 7e65e6af4c7418f133fc2de77c7df5b0b6b9b110
+Author: Равкин Никита <nikitaantonovic57633@gmail.com>
+Date:   Wed Oct 7 19:53:59 2026 +0300
+
+    Добавление README.md
